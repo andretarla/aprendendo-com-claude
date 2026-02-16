@@ -1,0 +1,7 @@
+venv/
+.env
+chave-temp.txt
+__pycache__/
+*.pyc
+historico_conversas.json
+dicas.txt
